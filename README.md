@@ -19,6 +19,7 @@ This project analyzes electric vehicle (EV) charging data to understand charging
 - Pandas and NumPy
 - Scikit-learn
 - XGBoost
+- Random Forest
 - Streamlit
 - Plotly
 - SHAP
